@@ -1,5 +1,5 @@
 # Ray Tracing in a weekend
 
-Source : https://raytracing.github.io/books/RayTracingInOneWeekend.html
+Source : https://ray-tracing.github.io/books/ray-tracingInOneWeekend.html
 
 ---
