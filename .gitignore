@@ -1,0 +1,9 @@
+# VSCode files
+.vscode/
+
+# CMake build config files
+CMakeLists.txt
+
+# Output
+image.ppm
+ray-tracing.exe
