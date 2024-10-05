@@ -1,6 +1,9 @@
 # VSCode files
 .vscode/
 
+# Build Files
+build/
+
 # CMake build config files
 CMakeLists.txt
 
